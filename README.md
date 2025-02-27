@@ -6,10 +6,11 @@
 
 ## About Me
 
-◆ 👨‍💻 Software enthusiast  
-◆ 🔍 I enjoy tinkering with APIs and building interesting things  
-◆ 🌱 Constantly learning and improving myself every day  
-◆ 🚀 Open to opportunities in development and software-related roles  
+✦ Software enthusiast  
+✦ I enjoy tinkering with APIs and building interesting things  
+✦ Constantly learning and improving myself every day  
+✦ Open to opportunities in development and software-related roles  
+
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
