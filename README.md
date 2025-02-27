@@ -28,4 +28,4 @@
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aTh1ef/&count_bg=%239d4edd&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
 
-<img src="https://media.giphy.com/media/8UGGp7rQvfhe63HrU8/giphy.gif" width="150px" />
+![Snake animation](https://github.com/aTh1ef/aTh1ef/blob/output/github-contribution-grid-snake.svg)
