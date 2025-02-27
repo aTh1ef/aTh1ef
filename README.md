@@ -1,14 +1,14 @@
 # Hello there, I'm Ateef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" style="display:inline-block"/>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/3kzJvEciJa94SMW3hN/giphy.gif?cid=ecf05e47j3y517wt5mprpvtbrjj6k0mzjeqt6bs9pwxrv5cj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px" />
+<div align="center">
+  <img src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif?cid=790b76118kz182o561vhdxqo5qt9gzrst56li505irr0tgrq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px" />
 </div>
 
 ## About Me
 
 Information Science & Engineering graduate exploring software development and technical support. Currently open to opportunities in development and software-related roles.
 
-## Technologies
+## Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
