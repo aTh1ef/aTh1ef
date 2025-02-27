@@ -26,6 +26,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aTh1ef&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9" alt="GitHub Stats" />
 </div>
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aTh1ef/&count_bg=%239d4edd&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
 
-![Snake animation](https://github.com/aTh1ef/aTh1ef/blob/output/github-contribution-grid-snake.svg)
+
